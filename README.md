@@ -1,6 +1,8 @@
 Zabbix template for COVER UPS
 =============================
 
+No MIBs required
+
 tested with model PMR 6kV, should work with other models too (and probably with more chinease made UPS that partialy use RFC-1628)
 only basic items, some triggers and graphs added as well.
 
